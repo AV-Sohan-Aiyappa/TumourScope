@@ -60,10 +60,9 @@ npm install
 
 ## Running the Application
 
-1. Start the backend server:
+1. Start the server:
 ```bash
-cd backend
-npm run dev
+npm start
 ```
 
 2. Start the frontend development server:
@@ -109,11 +108,3 @@ python app.py
   - SQLite database
   - Multer for file uploads
   - JWT for authentication
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
